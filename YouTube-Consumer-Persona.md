@@ -2,6 +2,8 @@
 
 ## Name
 #### Matthew Thomas
+* Matthew is an avid gamer and casual streamer
+* He likes to stay up to date about his favorite games 
 
 ## Technology
 * Matthew uses an iphone 16 pro and a custom built windows 11 pc at home
