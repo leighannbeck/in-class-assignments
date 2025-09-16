@@ -1,11 +1,11 @@
 # YouTube Consumer Persona
 
 ## Name
-Matthew Thomas
+#### Matthew Thomas
 
 ## Technology
-Matthew uses an iphone 16 pro and a custom built windows 10 pc at home
-Matthew is an avid gamer
+* Matthew uses an iphone 16 pro and a custom built windows 10 pc at home
+* Matthew is an avid gamer
 
 ## Love/Hate
 * He loves consuming youtube content. 
