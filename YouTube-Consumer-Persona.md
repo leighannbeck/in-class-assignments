@@ -4,7 +4,7 @@
 #### Matthew Thomas
 
 ## Technology
-* Matthew uses an iphone 16 pro and a custom built windows 10 pc at home
+* Matthew uses an iphone 16 pro and a custom built windows 11 pc at home
 * Matthew is an avid gamer
 
 ## Love/Hate
